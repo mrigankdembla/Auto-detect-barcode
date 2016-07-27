@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/layout-land/barcode_capture.xml",
+        "source": "/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/src/main/res/layout-land/barcode_capture.xml"
+    },
+    {
+        "merged": "/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/res/merged/debug/layout-land/activity_main.xml",
+        "source": "/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/src/main/res/layout-land/activity_main.xml"
+    }
+]

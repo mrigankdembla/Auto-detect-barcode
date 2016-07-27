@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi,armeabi-v7a"
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    timestamp="138768356279119"
+    token="-7328253785985718909"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="479" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="271" />
+    <task
+        name="verifier"
+        duration="48" />
+
+    <artifact
+        location="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="138768356279119"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,7 @@
+#Wed Jul 27 12:58:41 IST 2016
+base.0=/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0fb952600cecc0433c6630d3b030c740180ed53d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ad45f34bdc2654216c7357a7c0a387b4e6b28781/classes.dex
+base.1=/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ad45f34bdc2654216c7357a7c0a387b4e6b28781
+file.0=/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0fb952600cecc0433c6630d3b030c740180ed53d/classes.dex

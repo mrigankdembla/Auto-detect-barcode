@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-8.1.0_63c978071a8eea90cd204bec02a674b4aa60e528/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-8.1.0_85a526c6f24575aba2841b09d86ca6aa52a17fb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-8.1.0_4d7a7616c59e8e08527176b42a88f54337b2ac7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_c57c83458b7cd174685b67679344e1a42bf734dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-8.1.0_2d5f0a78af2a3733cad0ae0729df965751be1249/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.1.0_e742ba84b94c1b8d939b83c05ff8a1aa0550bd9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.1.0_ffbe36fffd4b087c2117551a8d337c1d0b7bd7fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-8.1.0_55cbddf4beed45afff0ecc6ab82017febb7caa1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_b29a9bdd353216c0cf89aae17ff0e5b06867b9d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-measurement-8.1.0_84a9e07e1d9fd336a5832bd44719eb3c0359b82f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="7046b986ae0fbe7f49140109fbcd82c0da36985e">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ad45f34bdc2654216c7357a7c0a387b4e6b28781/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-8.1.0_bb757cddd3a41f4a3a72b427c0cead976ffbe718/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-8.1.0_ed8d353bc9de2c46535053bd3e299e34695fb5c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-8.1.0_b5b295ff38cd9b7f1e001591ea656a0ac38ce1c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-8.1.0_b6b2de00b42f85757cbe9795dba711230812bebe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-22.2.0_305d5273af3bef0bd91f53eded2d08359c1abbfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-8.1.0_3d7849727807a1b9cac169a8f6264376dbb944df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_9eba98351219d1ed848791620633abf64cd73b07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.0.1_3399bff756c57a24a1fde2660b08fd1f48b8420a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.1_ae0e77de0c25a7e38e30469c50f9cab9da7ef9e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="7da878b6fc76d82c6f50f8373ca05e2baeefc544">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0fb952600cecc0433c6630d3b030c740180ed53d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-8.1.0_d40600e210e388870dff28ec0166f6d4dda0eea1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_715c53a1c1ad604dc095dbc381d290284d7df44d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-8.1.0_ab96e07be479f5cb49fcb8b5dea65c8d8a270de3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-8.1.0_43bec406265c5df82a680c4f081efc80ffccd103/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-8.1.0_f34b589e8555051aef40f93115f795e40189734e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-8.1.0_69392aa7ffec73ffe4bcc6d500f6201c214b85ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-8.1.0_e3f93806e6cd4f545c5e17ba5a09305d3cb767b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-8.1.0_d5626926c04884fdfa335da81df28cce7d1c172c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-8.1.0_309d92d388c92e9d7ee7bd2bf442c98538798161/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/home/shopclues/projectspersonal/android-vision-master/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_68cdf76b6694201088c87ae9b46e56d85ae39881/classes.dex" />
+    </item>
+
+</items>
